@@ -1,0 +1,21 @@
+{
+    "name": "imanueldavid/coba-composer",
+    "description": "coba composer",
+    "keywords": ["coba composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DavidIcube\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "DavidIcube",
+            "email": "imanuel.david@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
